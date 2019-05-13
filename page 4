@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>My Webpage</title>
-    </head>
-    <body>
-        <p>Hello World! "Do you want to view page 2?"<a href="page2.html"</a></p>
-    </body>
-</html>
