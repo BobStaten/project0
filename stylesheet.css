@@ -1,5 +1,7 @@
-img {
-  align: center;
+img.center {
+  display:block;
+  margin: 0 auto
+  
 }
   h4  {
     text-align: center;
