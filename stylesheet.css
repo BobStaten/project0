@@ -1,19 +1,20 @@
-h1 {
-  text-align: center;
-}
-
-table {
-  margin: 5px
-  width:auto;
-}
-
-th {
-  padding: 3px;
-}
-
-td{
-  padding-left:8px
-  padding-right:8px
-  border: 1px solid black
-  background color: green
+  h1  {  
+    text-align: center;
   }
+
+  table {
+    margin: 5px
+    width:auto;
+  }
+
+  th {
+    padding: 3px;
+  }
+
+  td{
+    padding-left:8px
+    padding-right:8px
+    border: 1px solid black
+    background color: green
+
+    }
