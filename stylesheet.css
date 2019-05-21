@@ -51,12 +51,12 @@
     color: turquoise;
   }
   @media (min-width: 500px) {
-    content {
+    body {
       background-color:yellow;
     }
   }
   @media (max-width: 499px) {
-    content {
+    body {
       background-color:red;
     }
   }
