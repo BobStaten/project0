@@ -56,7 +56,7 @@
     }
   }
   @media (max-width: 499px) {
-    .screen{
-      background-color:;
+    body {
+      background-color:yellow;
     }
   }
