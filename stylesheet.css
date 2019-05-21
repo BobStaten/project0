@@ -52,11 +52,11 @@
   }
   @media (min-width: 500px) {
     body {
-      background-color:red;
+      background-color:yellow;
     }
   }
   @media (max-width: 499px) {
     body {
-      background-color:yellow;
+      background-color:red;
     }
   }
