@@ -51,12 +51,12 @@
     color: turquoise;
   }
   @media (min-width: 500px;) {
-    body {
+    .screen {
       background-color:lightblue;
     }
   }
   @media (max-width: 499px;) {
-    body{
+    .screen{
       background-color:lightgreen;
     }
   }
