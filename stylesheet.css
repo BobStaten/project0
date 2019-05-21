@@ -60,3 +60,8 @@
       background-color:red;
     }
   }
+  @media print(
+    .screen-only{
+      display: none;
+    }
+  )
