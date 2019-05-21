@@ -50,12 +50,12 @@
   #id {
     color: turquoise;
   }
-  @media (min-width: 500px) {
+  @media (min-width: 1000px) {
     body {
       background-color:yellow;
     }
   }
-  @media (max-width: 499px) {
+  @media (max-width: 999px) {
     body {
       background-color:red;
     }
