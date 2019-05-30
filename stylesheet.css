@@ -64,18 +64,3 @@
       display: none;
     }
   }
-  #buck {
-    text-align: center;
-    font-size: 20px;
-    color: red;
-  }
-  #doe {
-    text-align: center;
-    font-size: 15px;
-    color: blue;
-  }
-  #bunny {
-    text-align: center;
-    font-size: 8px;
-    color: black;
-  }
