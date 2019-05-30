@@ -48,9 +48,6 @@
     padding:5px;
     width:150px
   }
-  #id {
-    color: turquoise;
-  }
   @media screen and (min-width: 500px) {
     body {
       background-color:yellow;
@@ -66,3 +63,6 @@
       display: none;
     }
   )
+  #rabbits {
+    border: 1px solid black;
+  }
