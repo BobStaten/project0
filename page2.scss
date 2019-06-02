@@ -11,14 +11,14 @@ ol {
 
 %message {
   font-family: sans-serif;
-  font-size: 18px:
+  font-size: 18px;
   weight: bold;
   border: 1px solid black;
   padding: 20px;
   margin: 20px;
 }
 .success {
-  @extend %message:
+  @extend %message;
   background-color: green;
 }
 .error {
@@ -26,6 +26,6 @@ ol {
   background-color: red;
 }
 .warning {
-  @extend %message:
+  @extend %message;
   background-color: yellow;
 }
