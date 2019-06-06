@@ -7,7 +7,7 @@
     text-shadow: inherit;
     color:green;
   }
-  p {
+  div p {
     text-align: center;
     color: red;
   }
@@ -66,5 +66,5 @@
     }
   }
   #invite {
-    background-color: none;
+    border: 2px solid black;
   }
