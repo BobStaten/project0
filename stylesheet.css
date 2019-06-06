@@ -65,3 +65,7 @@
       display: none;
     }
   }
+  .invite {
+    border: 4px;
+    color: solid black;
+  }
