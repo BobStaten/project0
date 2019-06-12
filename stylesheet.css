@@ -1,6 +1,7 @@
   p {
     text-align:center;
-    display: block;
+    display: inline-flex;
+    border: 1px solid blue;
   }
   h1 {
     color: blue;
