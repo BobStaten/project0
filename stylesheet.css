@@ -15,10 +15,6 @@
     text-align: center;
     color: brown;
   }
-  h2 {
-    text-align: center;
-    color: blue;
-  }
   table {
     margin-left: auto;
     margin-right: auto;
@@ -52,7 +48,7 @@
   }
   @media screen and (min-width: 500px) {
     body {
-      background-color:yellow;
+      background-color:pink;
     }
   }
   @media screen and (max-width: 499px) {
@@ -64,7 +60,4 @@
     .screen-only{
       display: none;
     }
-  }
-  .invite {
-    style = border: 2px solid black;
   }
