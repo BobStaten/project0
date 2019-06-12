@@ -50,6 +50,7 @@
     body {
       background-image: "chickens.jpg" {
         transform: rotate(180 deg)
+        }
       }
       background-color:pink;
     }
