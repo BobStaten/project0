@@ -48,6 +48,9 @@
   }
   @media screen and (min-width: 500px) {
     body {
+      background-image: "chickens.jpg" {
+        transform: rotate(180 deg)
+      }
       background-color:pink;
     }
   }
