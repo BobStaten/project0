@@ -1,6 +1,8 @@
   p {
     text-align:center;
-    display: inline;
+  }
+  .invite {
+    display:block
   }
   h1 {
     color: red;
