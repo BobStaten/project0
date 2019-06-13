@@ -6,4 +6,10 @@ ul {
   font-size: 18px;
   color: black; }
 
+img {
+    border: 1px; solid black;
+    border-radius: 4px;
+    padding:5px;
+    width:150px; }
+
 /*# sourceMappingURL=page2.css.map */
